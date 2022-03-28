@@ -11,3 +11,6 @@ Check out the code below if you are interested in finding out more!
   - Tesla Stock Price Forecast
 * [ARIMA](https://github.com/ZachhHsu/Forecasting_Projects_with_Python/blob/main/ARIMA-and-Seasonal-ARIMA-.ipynb)
   - Seasonal and Non-seasonal data Forecast
+* Quantitative Trading
+  - [Simple Moving Averages](https://github.com/ZachhHsu/Forecasting_Projects_with_Python/blob/main/Quantitative_Trading/MA.py)
+  - [Price & Volume](https://github.com/ZachhHsu/Forecasting_Projects_with_Python/blob/main/Quantitative_Trading/price_volume.py)
